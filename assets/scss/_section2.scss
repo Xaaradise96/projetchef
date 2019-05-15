@@ -1,0 +1,159 @@
+section.section2 {
+    div.container-fluid {
+        background: black;
+        margin-top: 30px;
+
+        h3 {
+            font-family: 'Courgette', cursive;
+            text-align: center;
+            margin-top: 30px;
+            font-size: 30px;
+            color: white;
+
+            span {
+                color: rgb(197, 58, 65);
+                font-size: 50px;
+            }
+        }
+
+        img.img2 {
+            margin-left: 300px;
+            margin-right: 100px;
+
+        }
+
+        img {
+            margin-left: 15px
+        }
+
+        .amg {
+            padding-right: 15px;
+            border-bottom: 2px solid gray;
+        }
+
+        p {
+            text-align: center;
+            color: white;
+        }
+    }
+
+    div.far {
+        background: url(../img/book_table_bg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 30px;
+        margin-top: 50px;
+        margin-left: 15.5%;
+        margin-right: 15.5%;
+        width: 69%;
+        button{
+            background: rgb(197, 58, 65);
+            border-radius: 30px;
+            margin-left: 320px;
+            margin-bottom: 40px;
+            margin-top:120px;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            font-size: 16px;
+            border:  rgb(197, 58, 65);
+
+        }
+        button:hover{
+            background-color: white;
+            color: rgb(197, 58, 65);
+        }
+        .et{
+        width: 70%;
+        margin-top: 17px;
+        border-radius: 15px;
+        height: 22%;
+        }
+        .at{
+            border-radius: 15px;
+            height: 22%;
+            margin-top: 17px;
+            margin-left: 110px;
+            margin-right: 20px;
+            width: 70%;
+        }
+    }
+    // .bck{
+
+    // }
+
+    div.po {
+        text-align: center;
+        color: white;
+        font-size: 19px;
+        margin-top: 40px;
+        padding-bottom: 40px;
+
+        span {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    }
+
+    div.container {
+        h3 {
+            font-family: 'Courgette', cursive;
+            text-align: center;
+            margin-top: 30px;
+            font-size: 30px;
+
+            span {
+                color: rgb(197, 58, 65);
+                font-size: 50px;
+            }
+        }
+        div.row2{
+            .img3{
+                border-image: 5px solid black !important;
+                border-radius: 30px;
+            }
+    
+        }
+}
+div.container3{
+    img.img3{
+        position: relative;
+        border-radius: 30px;
+        // padding: 70px;
+        border: solid 5px gray;
+    }
+    
+    div.taille{
+        // position:absolute;
+        border-radius: 20px;
+        margin-left: 35px;
+        margin-right: 35px;
+        padding-bottom: 7px;
+        padding-top: 7px;
+        border: none !important ;
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    button{
+        background: rgb(197, 58, 65);
+        border-radius: 30px;
+        margin-left: 340px;
+        margin-bottom: 30px;
+        margin-top:160px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        font-size: 16px;
+        border:  rgb(197, 58, 65);
+
+    }
+    button:hover{
+        background-color: white;
+        color: rgb(197, 58, 65);
+    }
+}
+}
+
